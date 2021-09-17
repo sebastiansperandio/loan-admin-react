@@ -1,5 +1,9 @@
 # Loan Administrator 
 
+## Author
+
+[Sebastian Sperandio](https://www.linkedin.com/in/sebastian-sperandio-b9762591/)
+
 ## Do you want to check it?
 
 See [here](https://loan-administrator.netlify.app/).
