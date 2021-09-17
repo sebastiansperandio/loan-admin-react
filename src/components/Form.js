@@ -39,7 +39,7 @@ const Form = (props) => {
                 <input 
                     className="u-full-width" 
                     type="number" 
-                    placeholder="Ejemplo: 3000" 
+                    placeholder="Example: 3000" 
                     onChange={ e => saveAmount( parseInt( e.target.value ) ) }
                     />
             </div>
@@ -59,7 +59,7 @@ const Form = (props) => {
             <div>
                 <input 
                     type="submit" 
-                    value="Calcular" 
+                    value="Calculate" 
                     className="button-primary u-full-width" 
                     />
             </div>
