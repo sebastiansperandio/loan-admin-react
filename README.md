@@ -12,6 +12,8 @@ See [here](https://loan-administrator.netlify.app/).
 
 Simple React JS project for a Loan Administrator. It is an introduction to use components, props and states.
 
+![Loan Administrator software preview](/preview-loan-admin.png)
+
 ## Installation
 
 - Create a new folder where you want called *loan-administrator*
