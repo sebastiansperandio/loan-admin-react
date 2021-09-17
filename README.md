@@ -10,19 +10,25 @@ Simple React JS project for a Loan Administrator. It is an introduction to use c
 
 ## Installation
 
-Inside you project folder (i.e: /react-app)
-    
-    cd react-app
-    
-    git clone git@github.com:sebastiansperandio/loan-admin-react.git .
+- Create a new folder where you want called *loan-administrator*
 
-Install dependencies:
+- Open a new terminal (*Ctrl+Shift+T* or right click -> Open in new terminal)
 
-    npm install
+- Go to your project folder:
+  
+        cd loan-administrator
 
-Run the project in local server
+- Clone this repository using:
 
-    npm start
+        git clone git@github.com:sebastiansperandio/loan-admin-react.git .
+
+- Install dependencies:
+
+        npm install
+
+- Run the project in local server:
+
+        npm start
 
 ### Notes
 
@@ -30,7 +36,7 @@ If you want to deploy it into a server you could use:
 
     npm run build
 
-It will create a folder called /build in your repository and It is only folder you need to move to your server.
+It will create a folder called /build in your repository. This folder is only you need to move to your server.
 
 ### Logic changes
 
