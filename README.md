@@ -1,6 +1,8 @@
 # Loan Administrator 
 
-## [Demo](https://gifted-haibt-945b55.netlify.app/).
+## Do you want to check it?
+
+See [here](https://gifted-haibt-945b55.netlify.app/).
 
 ## Description
 
